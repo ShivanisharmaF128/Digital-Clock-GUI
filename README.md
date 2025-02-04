@@ -58,7 +58,7 @@ root.mainloop()
 
 ```
 sh
-git clone https://github.com/ShivanisharmaF128/Digital-Clock-GUI.git
+git clone https://github.com/ShivanisharmaF128/Digital-Clock-GUI
 ```
 
 

@@ -19,13 +19,6 @@ The main objective of this project is to create a **real-time updating digital c
 
 ---
 
-## 📜 Code Explanation
-1. **Tkinter Window Initialization** → Creates a main application window.
-2. **Time Formatting** → Uses `time.strftime("%I:%M:%S %p")` to get current time.
-3. **Label Configuration** → Displays time in a large **Century Schoolbook** font.
-4. **Auto Update Function** → Calls `present_time()` every **200ms** to refresh the time.
-
----
 
 ## Code
 ```sh
@@ -55,7 +48,18 @@ present_time()
 root.mainloop()
 
 ```
+## 📜 Code Explanation
+1. **Tkinter Window Initialization** → Creates a main application window.
+2. **Time Formatting** → Uses `time.strftime("%I:%M:%S %p")` to get current time.
+3. **Label Configuration** → Displays time in a large **Century Schoolbook** font.
+4. **Auto Update Function** → Calls `present_time()` every **200ms** to refresh the time.
 
+---
+
+```
+sh
+git clone https://github.com/ShivanisharmaF128/Digital-Clock-GUI.git
+```
 
 
 
